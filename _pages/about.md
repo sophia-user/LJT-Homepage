@@ -30,6 +30,9 @@ I am a first-year PhD candidate at HKUST NLP Group, supervised by Professor Junx
 
 - Natural Language Processing
 - Machine Learning
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM Truthfulness and Interpretability
 
 ## Awards and Honors
 

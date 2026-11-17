@@ -14,6 +14,7 @@ Education
 * **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024–Present
   * Supervisor: Professor Junxian He
 * **B.Eng.**, Shanghai Jiao Tong University, 2020–2024
+  * Previously advised by Professor Junxian He
 
 Research Experience
 ======
